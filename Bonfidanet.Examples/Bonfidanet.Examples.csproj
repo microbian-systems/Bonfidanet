@@ -1,15 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
-    <PropertyGroup>
-        <TargetFramework>net6.0</TargetFramework>
-        <OutputType>Exe</OutputType>
-        <AssemblyName>Bonfidanet.Examples</AssemblyName>
-        <RootNamespace>Bonfidanet.Examples</RootNamespace>
-        <IsPackable>false</IsPackable>
-    </PropertyGroup>
-
-    <ItemGroup>
-      <ProjectReference Include="..\Bonfidanet.Client\Bonfidanet.Client.csproj" />
-    </ItemGroup>
-
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>Bonfidanet.Examples</AssemblyName>
+    <RootNamespace>Bonfidanet.Examples</RootNamespace>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bonfidanet.Client\Bonfidanet.Client.csproj" />
+  </ItemGroup>
 </Project>
