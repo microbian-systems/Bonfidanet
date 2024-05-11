@@ -13,7 +13,7 @@ namespace Bonfida.Client.Test
     [TestClass]
     public class TestBonfidaClient
     {
-        private static readonly Uri BaseUri = new Uri("https://serum-api.bonfida.com");
+        private static readonly Uri BaseUri = new("https://serum-api.bonfida.com");
         
         /// <summary>
         /// Setup the test with the request and response data.

@@ -18,12 +18,12 @@ namespace Bonfida.Client
         /// <summary>
         /// The API URI.
         /// </summary>
-        private static readonly Uri ApiUri = new Uri("https://serum-api.bonfida.com");
+        private static readonly Uri ApiUri = new("https://serum-api.bonfida.com");
         
         /// <summary>
         /// The API URI to request WS subscriptions.
         /// </summary>
-        private static readonly Uri WsApiUri = new Uri("https://serum-ws.bonfida.com");
+        private static readonly Uri WsApiUri = new("https://serum-ws.bonfida.com");
 
         /// <summary>
         /// The string used for the subscription request.

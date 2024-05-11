@@ -16,7 +16,7 @@ namespace Bonfida.Client.Test
     [TestClass]
     public class StreamingClientTest
     {
-        private static readonly Uri BaseUri = new Uri("https://serum-ws.bonfida.com");
+        private static readonly Uri BaseUri = new("https://serum-ws.bonfida.com");
 
         private Mock<IWebSocket> _socketMock;
         private ManualResetEvent _notificationEvent;
