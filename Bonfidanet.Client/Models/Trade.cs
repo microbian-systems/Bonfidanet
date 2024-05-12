@@ -1,4 +1,4 @@
-namespace Bonfida.Client.Models
+namespace Bonfidanet.Client.Models
 {
     /// <summary>
     /// Represents a trade in the Serum DEX.

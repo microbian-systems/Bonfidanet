@@ -1,8 +1,8 @@
-using Bonfida.Client.Models;
+using Bonfidanet.Client.Models;
 using System;
 using System.Threading.Tasks;
 
-namespace Bonfida.Client
+namespace Bonfidanet.Client
 {
     /// <summary>
     /// Specifies the available endpoints on the Bonfida WebSocket API.

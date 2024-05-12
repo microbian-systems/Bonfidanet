@@ -1,6 +1,6 @@
 // unset
 
-namespace Bonfida.Client.Models
+namespace Bonfidanet.Client.Models
 {
     /// <summary>
     /// Represents a subscription response.

@@ -8,7 +8,7 @@ using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Bonfida.Client.Test
+namespace Bonfidanet.Client.Test
 {
     [TestClass]
     public class TestBonfidaClient

@@ -1,7 +1,7 @@
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Logging.Console;
 
-namespace Bonfida.Client
+namespace Bonfidanet.Client
 {
     public static class ClientFactory
     {

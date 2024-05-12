@@ -1,9 +1,9 @@
 // unset
 
-using Bonfida.Client;
+using Bonfidanet.Client;
 using System;
 
-namespace Bonfida.Examples
+namespace Bonfidanet.Examples
 {
     public class BonfidaStreamingClientExample
     {

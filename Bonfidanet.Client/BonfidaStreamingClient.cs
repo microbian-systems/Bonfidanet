@@ -1,5 +1,5 @@
-using Bonfida.Client.Core.WebSocket;
-using Bonfida.Client.Models;
+using Bonfidanet.Client.Core.WebSocket;
+using Bonfidanet.Client.Models;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Net.Http;
@@ -7,7 +7,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-namespace Bonfida.Client
+namespace Bonfidanet.Client
 {
     /// <summary>
     /// Implements the streaming client functionality for the Bonfida API.

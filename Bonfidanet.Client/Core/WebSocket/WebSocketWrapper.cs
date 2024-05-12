@@ -3,7 +3,7 @@ using System.Net.WebSockets;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Bonfida.Client.Core.WebSocket
+namespace Bonfidanet.Client.Core.WebSocket
 {
 
     internal class WebSocketWrapper : IWebSocket

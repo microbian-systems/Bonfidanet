@@ -1,9 +1,9 @@
-﻿using System;
-using Bonfida.Client;
+﻿using Bonfidanet.Client;
+using System;
 using System.Net;
 using System.Threading.Tasks;
 
-namespace Bonfida.Examples
+namespace Bonfidanet.Examples
 {
     public class ExampleApiClient
     {

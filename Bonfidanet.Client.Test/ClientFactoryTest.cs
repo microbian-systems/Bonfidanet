@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Bonfida.Client.Test
+namespace Bonfidanet.Client.Test
 {
 
     [TestClass]

@@ -2,7 +2,7 @@
 
 using System.Collections.Generic;
 
-namespace Bonfida.Client.Models
+namespace Bonfidanet.Client.Models
 {
     /// <summary>
     /// Represents the current order book of a Serum DEX market.

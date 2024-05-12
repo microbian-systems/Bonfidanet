@@ -1,11 +1,10 @@
 using Microsoft.Extensions.Logging;
 using System;
-using System.IO;
 using System.Net.WebSockets;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Bonfida.Client.Core.WebSocket
+namespace Bonfidanet.Client.Core.WebSocket
 {
     /// <summary>
     /// Base streaming client class that abstracts the websocket handling.

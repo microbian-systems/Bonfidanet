@@ -1,5 +1,5 @@
-using Bonfida.Client.Core.WebSocket;
-using Bonfida.Client.Models;
+using Bonfidanet.Client.Core.WebSocket;
+using Bonfidanet.Client.Models;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using Moq.Protected;
@@ -11,7 +11,7 @@ using System.Net.WebSockets;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Bonfida.Client.Test
+namespace Bonfidanet.Client.Test
 {
     [TestClass]
     public class StreamingClientTest

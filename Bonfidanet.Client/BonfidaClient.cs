@@ -1,14 +1,13 @@
+using Bonfidanet.Client.Models;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Net.Http;
-using System.Reflection.Metadata;
+using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
-using Bonfida.Client.Models;
-using Microsoft.Extensions.Logging;
-using System.Text;
 
-namespace Bonfida.Client
+namespace Bonfidanet.Client
 {
     /// <summary>
     /// Implements the client functionality for the Bonfida API.

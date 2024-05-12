@@ -1,7 +1,7 @@
 using System.Net;
 using System.Net.Http;
 
-namespace Bonfida.Client.Models
+namespace Bonfidanet.Client.Models
 {
     /// <summary>
     /// Represents a result to a request to the Bonfida API.

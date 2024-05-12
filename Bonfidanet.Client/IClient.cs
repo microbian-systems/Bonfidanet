@@ -1,8 +1,8 @@
+using Bonfidanet.Client.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Bonfida.Client.Models;
 
-namespace Bonfida.Client
+namespace Bonfidanet.Client
 {
     /// <summary>
     /// Specifies the available endpoints on the Bonfida API.
