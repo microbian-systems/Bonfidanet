@@ -18,6 +18,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    <PackageReference Include="ThrowGuard" Version="1.0.6" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Bonfidanet.Client\Bonfidanet.Client.csproj" />
