@@ -12,8 +12,8 @@
   </ItemGroup>
   <Import Project="..\SharedBuildProperties.props" />
   <ItemGroup>
-    <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0" />
-    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="8.0.0" />
-    <PackageReference Include="ThrowGuard" Version="1.0.6" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="8.0.1" />
+    <PackageReference Include="ThrowGuard" Version="1.0.7" />
   </ItemGroup>
 </Project>
